@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabehamasaki&label=Profile%20views&color=0e75b6&style=flat" alt="gabehamasaki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabehamasaki" alt="gabehamasaki" /></a> </p>
-
 - 🔭 I’m current working with Laravel and Vue at [Exata Technology](https://www.exata.it/en/)
 
 - 🌱 I’m currently focused on learning **Golang**
