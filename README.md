@@ -17,11 +17,11 @@ func GetDegree() string {
 func GetDailyKnowledge() []string {
 	return []string{
 		"GoLang",
-        "PHP",
+		"PhP",
 		"Java",
 		"Kafka",
 		"MySQL",
-        "Ollama",
+		"Ollama",
 		"Docker",
 	}
 }
