@@ -20,6 +20,7 @@ func GetDailyKnowledge() []string {
 		"PhP",
 		"Java",
 		"Kafka",
+		"Redis",
 		"MySQL",
 		"Ollama",
 		"Docker",
